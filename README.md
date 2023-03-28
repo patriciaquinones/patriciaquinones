@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">I'm Patricia Quinones, a frontend freelance developer 👨‍💻 🚀</div>  
+### <div align="center">I'm Patricia Quinones, a frontend freelance developer 👩🏻‍💻🚀</div>  
   ## 💫 About Me:
 
 - 🔭 I’m currently working on React projects.  
